@@ -3,7 +3,7 @@ require 'spec_helper'
 describe 'App' do
   
   describe "GET '/'" do
-    before do
+    before do 
       get '/'
     end
     
